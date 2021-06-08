@@ -41,7 +41,7 @@ Note: Or you can just type exit
 #### Creating windows
 
 ```
-C-b c (A new window will then be rpesented to you in tmux's status bar)
+C-b c (A new window will then be repesented to you in tmux's status bar)
 ```
 
 #### Switching windows
